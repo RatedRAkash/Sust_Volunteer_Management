@@ -3,36 +3,6 @@
 # Volunteer Management
 
 
-
-
-
-
-It's a web project build by Laravel for the course CSE 446 : Web Technology. The owner of this project are:
-
-
-- MD. Shafayet Hasan
-  
-  Reg No: 2016331080,
-  
-  Student of CSE, SUST
-  
-  Email: nuhashhasan2015@gmail.com
-  
-  Github: https://github.com/Nuhash80
-
-
-
-- Jubayer Ahmed Ayon
-  
-  Reg No: 2016331096,
-  
-  Student of CSE, SUST
-  
-  Email: ayon1997@gmail.com
-  
-
-
-
 ## Motivation
 
 In Sust, there are many different type of organization for example cultural, career oriented, debate etc. These organizations arranged many events throughout the calender year. They need many students as volunteer for organizing the event. 
